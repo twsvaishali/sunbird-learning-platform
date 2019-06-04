@@ -1237,9 +1237,9 @@
         "indexed": true
       },
       {
-        "propertyName": "organization",
+        "propertyName": "organisation",
         "title": "Array of org names (partner names)",
-        "description": "Array of organization names (partner names)",
+        "description": "Array of organisation names (partner names)",
         "category": "General",
         "dataType": "List",
         "required": false,
